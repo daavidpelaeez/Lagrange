@@ -4,6 +4,7 @@ title: "Veteranos"
 author: "David Pelaez"
 categories: journal
 tags: [documentation,sample]
+image: futbol.avif
 ---
 ¿Quién es el jugador más veterano en jugar la Champions League?
 Jugador más viejo alineado

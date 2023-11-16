@@ -4,7 +4,7 @@ title: "Mayores Goleadores de la Historia"
 author: "David Pelaez"
 categories: journal
 tags: [documentation,sample]
-
+image: futbol.avif
 ---
 La tabla de máximos goleadores en la historia del fútbol
 Cristiano Ronaldo: 863 goles.

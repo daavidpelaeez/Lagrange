@@ -4,6 +4,7 @@ title: "Mejores Equipos"
 author: "DavidPelaez"
 categories: journal
 tags: [documentation,sample]
+image: futbol.avif
 ---
 Los diez mejores equipos ganadores de la Champions League
 Bayern de Múnich 2019/20.

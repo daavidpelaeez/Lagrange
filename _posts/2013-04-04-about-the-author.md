@@ -4,6 +4,7 @@ title: "Mejores Entrenadores"
 author: "David Pelaez"
 categories: journal
 tags: [documentation,sample]
+image: futbol.avif
 ---
 
 Campeón de la Copa de Europa con múltiples equipos
