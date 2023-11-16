@@ -1,10 +1,15 @@
 ---
 layout: post
-title: "About the Author"
-author: "Paul Le"
+title: "Mejores Entrenadores"
+author: "David Pelaez"
 categories: journal
 tags: [documentation,sample]
-image: cutting.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+Campeón de la Copa de Europa con múltiples equipos
+
+4 Carlo Ancelotti (AC Milan 2003 2007; Real Madrid 2014, 2022)
+2 Ernst Happel (Feyenoord 1970; Hamburgo 1983)
+2 Jupp Heynckes (Real Madrid 1998; Bayern 2013)
+2 Ottmar Hitzfeld (Dortmund 1997; Bayern 2001)
+2 José Mourinho (Oporto 2004, Inter 2010)

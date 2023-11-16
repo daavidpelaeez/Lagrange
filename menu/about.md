@@ -1,19 +1,24 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Bienvenido al Blog
 permalink: /about
 ---
+¡Bienvenido a Jekyll Futbol!
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+En Jekyll Futbol, nos sumergimos en el emocionante universo de la UEFA Champions League para ofrecerte la más completa recopilación de datos, estadísticas y análisis. Nuestro objetivo es llevarte más allá de los resultados y proporcionarte una experiencia inigualable para seguir la acción del torneo de clubes más prestigioso de Europa.
 
-### Getting Started
+Descubre lo que Jekyll Futbol tiene para ofrecerte:
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+Datos en Tiempo Real: Sigue cada detalle de los partidos en tiempo real, desde la posesión del balón hasta los momentos cruciales que definen la victoria.
 
-### Example Content
+Perfiles Detallados: Explora los perfiles completos de equipos y jugadores, con estadísticas de rendimiento, alineaciones y todo lo que necesitas saber para estar al tanto de tus favoritos.
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+Análisis Expertos: Nuestro equipo de expertos en fútbol ofrece análisis profundos y perspicaces, desglosando tácticas, estrategias y momentos clave que dan forma al torneo.
 
-### Questions?
+Historia y Curiosidades: Sumérgete en la rica historia de la Champions League y descubre datos curiosos que hacen de este torneo una experiencia única.
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+Únete a Nuestra Comunidad Apasionada:
+
+En Jekyll Futbol, creemos que el fútbol es más que un juego; es una pasión compartida que une a fanáticos de todo el mundo. Únete a nuestra comunidad y comparte la emoción de la Champions League con apasionados seguidores como tú.
+
+Estamos comprometidos a brindarte una experiencia informativa y entretenida mientras exploras el emocionante mundo de la Champions League. ¡Bienvenido a Jekyll Futbol, tu destino definitivo para todo lo relacionado con el fútbol europeo! ¡Disfruta de la emoción, la competencia y la grandeza del juego!
